@@ -27,5 +27,6 @@ class QParOuImpar1074 {
                 }
             }
         }
+        sc.close();
     }
 }

@@ -19,5 +19,6 @@ class QFibonacci1151 {
                 }
             }
         }
+        sc.close();
     }
 }
